@@ -1,2 +1,1 @@
-lhigigii
-cd testRepo
+00000000000
